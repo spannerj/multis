@@ -1,0 +1,422 @@
+Date,Time,Horse,Odds,Terms,Result,R4,Multi
+1 Jan,13:45,Ballygeary,10,5,P,1.00,M
+1 Jan,14:20,Cedar Hill,23,,L,1.00,M
+1 Jan,14:40,My Bobby Dazzler,17,5,P,1.00,M
+1 Jan,14:45,Balko Saint,17,,L,1.00,M
+1 Jan,15:20,School For Scandal,15,,L,1.00,M
+2 Jan,13:15,Rorys Story,26,,L,1.00,M
+2 Jan,18:00,Athena Ballerina,23,,L,1.00,M
+2 Jan,20:00,Thismydream,15,,L,1.00,M
+2 Jan,20:30,Starfighter,10,5,P,1.00,M
+3 Jan,16:55,Rivas Rob Roy,34,,L,1.00,M
+3 Jan,18:30,Bell Shot,12,5,P,1.00,M
+3 Jan,19:30,Dembe,13,,L,1.00,M
+4 Jan,12:58,Maxs Champ,17,,L,1.00,M
+4 Jan,14:58,Honey Im Good,17,,L,1.00,M
+4 Jan,15:28,Steal My Sunshine,11,5,EP,1.00,M
+4 Jan,15:58,Amalfi Skyline,10,5,W,1.00,M
+5 Jan,12:10,Le Grand Vert,12,5,EP,1.00,M
+5 Jan,13:55,City Derby,13,,L,1.00,M
+5 Jan,14:30,Percy Willis,13,,L,1.00,M
+6 Jan,13:40,Cantalupo Bella,26,,L,1.00,M
+6 Jan,14:05,Western Soldier,21,,NR,1.00,M
+6 Jan,15:25,Not Staying Long,17,5,EP,1.00,M
+7 Jan,13:30,Walnut Beach,29,,NR,1.00,M
+7 Jan,15:10,Ballycallan King,17,,NR,1.00,M
+7 Jan,15:25,Godot,17,5,W,1.00,M
+8 Jan,15:00,Bread And Butter,17,,L,1.00,M
+8 Jan,16:05,Boudica Warrior,23,,L,1.00,M
+9 Jan,17:00,Kats Bob,9,5,W,0.75,M
+9 Jan,18:00,Fox Flame,9,,L,1.00,M
+9 Jan,20:30,Another Angel,8,,L,1.00,M
+10 Jan,12:20,Smart Connection,67,,L,1.00,M
+10 Jan,13:05,Out The Glen,12,,L,1.00,M
+10 Jan,15:50,Tara Iti,12,,NR,1.00,M
+11 Jan,13:20,Lepashe,13,,L,1.00,M
+11 Jan,14:30,Ladronne,10,,L,1.00,M
+11 Jan,15:05,Tim Pat,19,,L,1.00,M
+11 Jan,13:20,Lucky So And So,26,,L,1.00,M
+11 Jan,13:30,Zestful Hope,13,5,L,1.00,M
+11 Jan,14:30,Tribesmans Glory,15,5,P,1.00,M
+11 Jan,15:07,Milltown Lily,19,,NR,1.00,M
+13 Jan,12:40,Western Soldier,19,,L,1.00,M
+13 Jan,13:49,Jai Froid,12,5,W,1.00,M
+13 Jan,14:42,Jay Jay Reilly,34,5,W,1.00,M
+13 Jan,15:35,Cyclop,26,,L,1.00,M
+14 Jan,12:50,Tessy Lad,19,,L,1.00,M
+14 Jan,14:35,Bestaline,17,5,P,0.80,M
+15 Jan,14:07,Newmill Getaway,10,,L,1.00,M
+15 Jan,14:37,Family Business,19,5,EP,1.00,M
+15 Jan,15:37,Grandmaster Flash,23,,NR,1.00,M
+17 Jan,12:30,Rock Of Star,10,,NR,1.00,M
+17 Jan,13:35,Ceejaybe,8,,L,1.00,M
+17 Jan,14:10,Steven Seagull,11,,L,1.00,M
+17 Jan,15:55,Tiny Tantrum,10,5,EP,0.65,M
+18 Jan,13:20,Buford,29,,L,1.00,M
+18 Jan,15:05,Crown Dreams,15,,L,1.00,M
+18 Jan,17:00,No Diggity,15,,NR,1.00,M
+18 Jan,19:00,Ustath,11,,L,1.00,M
+19 Jan,14:15,Sir Maxi,15,,L,1.00,M
+19 Jan,18:45,Ramon Di Loria,13,,L,1.00,M
+20 Jan,13:55,Kilbree Warrior,34,5,P,1.00,M
+20 Jan,15:42,Ballydangan,19,,L,1.00,M
+20 Jan,15:45,Smith,15,,L,1.00,M
+21 Jan,14:10,Brideswell Lad,23,,L,1.00,M
+21 Jan,14:25,Tanganyika,23,,L,1.00,M
+21 Jan,15:20,Little Mixup,13,5,W,1.00,M
+21 Jan,15:35,Blade Runner,17,,L,1.00,M
+22 Jan,14:45,Blade Runner,10,,NR,1.00,M
+22 Jan,15:05,Key Commander,17,,L,1.00,M
+22 Jan,15:20,Oscarsman,21,,L,1.00,M
+23 Jan,13:00,Limelight,17,,L,1.00,M
+23 Jan,14:35,Ballydesmond,13,,L,1.00,M
+23 Jan,15:20,Arizona Cardinal,13,5,W,1.00,M
+24 Jan,15:00,Master Breffni,21,,L,1.00,M
+24 Jan,15:45,Skinflint,15,,L,1.00,M
+24 Jan,16:20,Breizh Alko,23,5,P,0.80,M
+25 Jan,14:35,Zestful Hope,26,5,P,1.00,M
+25 Jan,15:45,Risk And Roll,17,5,EP,1.00,M
+25 Jan,16:10,You Say Its Over,13,,L,1.00,M
+26 Jan,13:35,Heros De Moutiers,13,,L,1.00,M
+26 Jan,15:35,Sholokjack,15,,L,1.00,M
+26 Jan,16:10,Knowwhentoholdem,17,,L,1.00,M
+27 Jan,11:50,Gabriels Getaway,17,5,W,1.00,M
+27 Jan,12:40,Happy And Fine,26,,L,1.00,M
+27 Jan,12:55,In From The Cold,19,,L,1.00,M
+27 Jan,13:15,Lounge Lizard,34,5,P,1.00,M
+27 Jan,15:15,Surrey Quest,10,,L,1.00,M
+28 Jan,12:50,Kankin,13,,L,1.00,M
+28 Jan,13:45,Steven Seagull,15,,L,1.00,M
+28 Jan,14:55,William Philo,17,,L,1.00,M
+28 Jan,15:35,Percy Willis,15,5,EP,1.00,M
+29 Jan,15:30,Hardy Fella,11,,L,1.00,M
+29 Jan,15:40,Glenabo Bridge,17,5,EP,0.85,M
+29 Jan,16:20,Qeyaady,21,,L,1.00,M
+30 Jan,13:00,Awesome Foursome,11,4,P,1.00,M
+30 Jan,13:50,Misscarlett,29,,NR,1.00,M
+30 Jan,14:10,Stellar Stream,17,5,P,1.00,M
+30 Jan,14:45,Bashful Boy,26,,L,1.00,M
+31 Jan,13:40,Striking A Pose,10,5,W,1.00,M
+31 Jan,16:25,Mini Yeats,10,,L,1.00,M
+31 Jan,16:45,Exmoor Forest,21,5,EP,0.80,M
+1 Feb,13:45,Universal Secret,12,,L,1.00,M
+1 Feb,16:00,No Quarter Asked,12,,L,1.00,M
+1 Feb,16:30,Book Of Verse,15,,L,1.00,M
+2 Feb,13:55,Pawpaw,34,,L,1.00,M
+2 Feb,15:25,Zettabyte,15,,L,1.00,M
+2 Feb,16:00,Inchester Damsyl,11,,L,1.00,M
+3 Feb,14:15,No Cruise Yet,19,,L,1.00,M
+3 Feb,14:50,Ballygeary,10,,L,1.00,M
+3 Feb,15:00,Ballybawn Belter,21,,L,1.00,M
+3 Feb,15:10,Operation Manna,12,,L,1.00,M
+4 Feb,13:40,Absurde,41,,L,1.00,M
+4 Feb,15:00,Building Bridges,21,,L,1.00,M
+4 Feb,15:20,Lucid Dreams,23,,L,1.00,M
+4 Feb,15:50,Morning Soldier,29,,L,1.00,M
+4 Feb,16:05,Lone Star,19,5,EP,0.90,M
+5 Feb,15:20,Sign From Above,13,,L,1.00,M
+5 Feb,15:32,City Derby,29,,L,1.00,M
+5 Feb,16:07,Aire Valley Lad,29,,L,1.00,M
+6 Feb,14:35,Parish Star,41,,L,1.00,M
+6 Feb,14:50,Greystoke,51,,L,1.00,M
+6 Feb,15:35,Jar Du Desert,13,5,EP,1.00,M
+6 Feb,16:50,Halligator,9,,L,1.00,M
+7 Feb,15:20,Della Casa Lunga,12,4,W,0.90,M
+7 Feb,16:10,Velasco,13,5,W,1.00,M
+7 Feb,16:30,Custers Mistake,41,,L,1.00,M
+7 Feb,16:40,Victory Echo,13,,L,1.00,M
+8 Feb,13:30,Ladronne,12,,NR,1.00,M
+8 Feb,16:00,Ceejaybe,15,5,P,1.00,M
+8 Feb,16:25,Spirit Of Regulus,19,,NR,1.00,M
+9 Feb,13:40,Parikarma,10,,L,1.00,M
+9 Feb,15:10,Thunderclap,15,5,W,0.90,M
+9 Feb,15:40,Iconic Muddle,10,5,P,1.00,M
+10 Feb,15:05,Clever Currency,15,,L,1.00,M
+10 Feb,15:05,Desert Friend,29,5,EP,1.00,M
+10 Feb,15:15,Under Control,19,,NR,1.00,M
+11 Feb,15:15,Tilloughna,51,,L,1.00,M
+11 Feb,16:35,Conkwell Legend,17,,L,1.00,M
+12 Feb,17:30,Harbour Vision,13,5,P,1.00,M
+12 Feb,19:30,Light Up Our Stars,12,,NR,1.00,M
+12 Feb,20:30,Wedgewood,13,,L,1.00,M
+13 Feb,14:45,Azof Des Mottes,12,5,P,1.00,M
+13 Feb,15:55,Niceandeasy,13,,L,1.00,M
+13 Feb,16:30,Skyhill,19,5,EP,1.00,M
+14 Feb,14:50,King Turgeon,12,,L,1.00,M
+14 Feb,15:20,Nashville Nipper,21,,L,1.00,M
+14 Feb,15:50,Millies Mite,23,,L,1.00,M
+14 Feb,16:00,Just Go For It,15,5,EP,1.00,M
+14 Feb,16:55,Clongowes,17,,L,1.00,M
+15 Feb,13:55,Le Ligerien,15,,L,1.00,M
+15 Feb,15:25,Master Breffni,15,5,EP,1.00,M
+16 Feb,13:55,Step Above,13,5,P,0.80,M
+16 Feb,14:55,Slugger,8,,L,1.00,M
+16 Feb,17:02,Caledonian Pearl,15,,L,1.00,M
+17 Feb,14:25,Arqoob,23,5,P,1.00,M
+17 Feb,15:00,Larry,15,,L,1.00,M
+17 Feb,16:25,Dont Rightly Know,21,5,P,1.00,M
+17 Feb,16:50,Iddergem,21,,L,1.00,M
+18 Feb,14:45,Cardamon Hill,21,5,P,1.00,M
+18 Feb,15:20,Honey Im Good,21,,L,1.00,M
+18 Feb,16:20,Limerick Leader,8,5,P,1.00,M
+18 Feb,16:50,Don't Look Back,51,,L,1.00,M
+19 Feb,19:30,Nine Elms,17,,L,1.00,M
+19 Feb,20:30,Mintana,13,5,EP,0.90,M
+20 Feb,14:10,Diamand De Vindecy,17,5,P,1.00,M
+20 Feb,15:40,Wolf Prince,26,,L,1.00,M
+20 Feb,16:10,Singapore Saga,17,,L,1.00,M
+21 Feb,14:55,John Betjeman,15,,L,1.00,M
+21 Feb,15:05,Almazhar Garde,12,4,P,1.00,M
+21 Feb,16:15,Harrys Hope,10,,L,1.00,M
+21 Feb,16:40,Beannaigh Do,19,,L,1.00,M
+22 Feb,13:53,Mount Frisco,11,5,P,1.00,M
+22 Feb,14:53,Danesfort Mayfly,13,,L,1.00,M
+22 Feb,16:45,Iddergem,10,,L,1.00,M
+23 Feb,15:15,Broad Appeal,15,,L,1.00,M
+23 Feb,15:40,Sidi Ismael,17,,L,1.00,M
+23 Feb,15:47,Solanna,11,,L,1.00,M
+24 Feb,13:15,In From The Cold,51,,NR,1.00,M
+24 Feb,15:08,Bells Of Peterboro,12,5,P,1.00,M
+24 Feb,15:37,Al Dancer,21,5,P,1.00,M
+24 Feb,16:35,Purple Gown,23,,L,1.00,M
+25 Feb,14:25,Percy Warner,19,,L,1.00,M
+25 Feb,15:25,Intent Approach,10,,L,1.00,M
+25 Feb,15:55,Stuzzikini,12,,L,1.00,M
+25 Feb,16:40,Myfanwys Magic,13,5,P,1.00,M
+26 Feb,14:20,Royal Toast,26,,L,1.00,M
+26 Feb,14:50,Macari,15,4,P,0.75,M
+26 Feb,15:55,Cards Are Dealt,23,,L,1.00,M
+26 Feb,16:45,You Say Its Over,10,,L,1.00,M
+27 Feb,14:20,Feach Amach,13,,L,1.00,M
+27 Feb,15:50,Rehill Relic,26,,L,1.00,M
+28 Feb,14:20,Staar,15,,L,1.00,M
+28 Feb,16:35,Belgarum,9,,L,1.00,M
+1 Mar,13:50,Sizing Pottsie,29,,L,1.00,M
+1 Mar,16:45,High Game Royal,11,5,EP,1.00,M
+2 Mar,13:42,Russian Ruler,15,,L,1.00,M
+2 Mar,14:25,Bucephalus,15,5,W,1.00,M
+2 Mar,14:50,Rewired,15,,L,1.00,M
+2 Mar,15:40,Half Shot,15,,L,1.00,M
+3 Mar,15:15,Cyclop,10,,NR,1.00,M
+3 Mar,15:25,Clever Currency,12,5,P,0.90,M
+3 Mar,16:00,Drumbear,19,,L,1.00,M
+4 Mar,15:30,Bella Bliss,17,,L,1.00,M
+4 Mar,16:00,Chance The Robin,23,5,EP,1.00,M
+4 Mar,16:30,Thecompanysergeant,12,,L,1.00,M
+5 Mar,16:10,Getaway Erin,21,,L,1.00,M
+5 Mar,16:20,Line In The Sand,13,,NR,1.00,M
+6 Mar,14:15,Noble Annys,29,,L,1.00,M
+6 Mar,15:45,Ribeye,12,4,P,1.00,M
+6 Mar,16:45,Drop Him In,23,5,P,1.00,M
+7 Mar,14:05,Milltown Lily,29,,L,1.00,M
+7 Mar,14:55,Chase Park,34,,L,1.00,M
+7 Mar,16:20,Rioja Alta,19,5,P,1.00,M
+8 Mar,14:30,Dont Look Back,34,5,EP,1.00,M
+8 Mar,15:00,Lewa House,12,5,P,1.00,M
+8 Mar,15:30,Chameron,51,,L,1.00,M
+8 Mar,16:00,Euchan Falls,12,5,P,0.90,M
+9 Mar,13:15,Nachtgeist,23,,L,1.00,M
+9 Mar,13:50,Awaythelad,23,,L,1.00,M
+9 Mar,14:25,Georgi Girl,13,,L,1.00,M
+9 Mar,15:35,Mylesfromwicklow,9,,L,1.00,M
+9 Mar,16:30,Jet Plane,26,5,W,1.00,M
+10 Mar,15:00,Theyseekhimthere,26,,L,1.00,M
+10 Mar,16:10,Well Dick,26,5,W,0.85,M
+10 Mar,16:45,Balkardy,11,,L,1.00,M
+11 Mar,15:10,Winterwatch,11,,L,1.00,M
+11 Mar,16:10,Karakoram,12,,L,1.00,M
+11 Mar,16:40,Mini Yeats,9,5,P,1.00,M
+11 Mar,17:10,Don Occhetti,19,,L,1.00,M
+12 Mar,13:30,Favour And Fortune,29,,L,1.00,M
+12 Mar,14:10,My Mate Mozzie,10,,L,1.00,M
+12 Mar,14:50,Twig,21,5,P,1.00,M
+12 Mar,14:50,Excello,34,,L,1.00,M
+12 Mar,15:30,Nemean Lion,26,,L,1.00,M
+12 Mar,16:10,Love Envoi,12,,L,1.00,M
+12 Mar,16:10,You Wear It Well,15,,L,1.00,M
+12 Mar,16:50,Latin Verse,12,,L,1.00,M
+12 Mar,16:50,Eagle Fang,13,,L,1.00,M
+12 Mar,17:30,Henrys Friend,13,,L,1.00,M
+13 Mar,13:30,Jingko Blue,15,,L,1.00,M
+13 Mar,14:50,Lucky Place,17,5,P,1.00,M
+13 Mar,16:10,Fameaftertheglory,34,,NR,1.00,M
+13 Mar,16:50,Unexpected Party,12,5,W,0.90,M
+13 Mar,17:30,Bill Joyce,29,,L,1.00,M
+14 Mar,14:10,Flight Deck,51,,L,1.00,M
+14 Mar,15:30,Paisley Park,12,,L,1.00,M
+14 Mar,16:10,Killer Kane,29,,L,1.00,M
+14 Mar,17:30,Demnat,34,,L,1.00,M
+15 Mar,14:10,Mr Freedom,19,,L,1.00,M
+15 Mar,15:30,Monkfish,26,,L,1.00,M
+15 Mar,16:10,Sine Nomine,10,5,W,1.00,M
+15 Mar,16:50,Riviere Detel,12,,L,1.00,M
+15 Mar,17:30,Yeats Star,17,,L,1.00,M
+16 Mar,13:50,Word Has It,23,,NR,1.00,M
+16 Mar,14:25,Tanganyika,13,5,P,1.00,M
+16 Mar,14:45,Do Your Job,10,5,P,1.00,M
+16 Mar,15:00,Foxboro,23,,L,1.00,M
+16 Mar,16:22,Less Legacy,15,5,P,1.00,M
+17 Mar,13:32,Pep Talking,21,5,W,0.75,M
+17 Mar,13:42,Barry Lyndon,26,,L,1.00,M
+17 Mar,14:17,Flicker Of Hope,19,,NR,1.00,M
+17 Mar,14:52,Pralognan,9,,L,1.00,M
+19 Mar,16:15,Cantalupo Bella,21,,L,1.00,M
+19 Mar,16:45,Nut Wood,29,,L,1.00,M
+20 Mar,16:05,Allo Allo,12,,L,1.00,M
+20 Mar,16:40,Royal Max,26,,L,1.00,M
+20 Mar,17:15,Gentle Victor,17,,L,1.00,M
+21 Mar,14:15,Double Click,9,5,W,1.00,M
+21 Mar,15:50,Ask Brewster,13,5,W,1.00,M
+21 Mar,16:25,Vetoncall,19,,L,1.00,M
+22 Mar,15:33,Saligo Bay,19,,L,1.00,M
+23 Mar,13:50,Sunny Time,29,,L,1.00,M
+23 Mar,14:10,I Love My Baie,15,5,W,1.00,M
+23 Mar,14:25,Clear Angel,21,5,P,1.00,M
+23 Mar,15:15,All The Glory,17,5,W,1.00,M
+23 Mar,15:35,Dutch Decoy,19,,L,1.00,M
+24 Mar,14:10,Godot,11,,L,1.00,M
+24 Mar,14:45,Gifted Angel,13,,L,1.00,M
+24 Mar,17:05,Hurricane Harvey,19,5,P,0.90,M
+24 Mar,17:25,Danzart,13,,L,1.00,M
+25 Mar,14:20,Samtara,13,5,EP,1.00,M
+25 Mar,16:05,Baghdad Central,10,,L,1.00,M
+26 Mar,14:20,Escobedo,26,,L,1.00,M
+26 Mar,15:20,Spitfire Girl,12,,L,1.00,M
+26 Mar,17:05,Clovis Boy,10,5,W,1.00,M
+27 Mar,16:45,Cobra Commander,9,,L,1.00,M
+27 Mar,17:05,Just Aidan,15,5,P,1.00,M
+28 Mar,15:20,Contre Ordre,10,5,P,1.00,M
+28 Mar,15:55,Al Kalila,10,5,P,1.00,M
+28 Mar,17:40,Job,26,,NR,1.00,M
+29 Mar,13:18,Yokohama,17,,L,1.00,M
+29 Mar,14:25,Havana Ball,13,,L,1.00,M
+29 Mar,15:00,Just A Spark,13,5,P,1.00,M
+29 Mar,15:35,Billyjoh,15,5,P,1.00,M
+29 Mar,16:40,Zealot,21,,L,1.00,M
+30 Mar,14:05,El Jefe,15,,L,1.00,M
+30 Mar,14:40,Balkardy ,23,,L,1.00,M
+30 Mar,16:25,Awesome Foursome,15,5,P,0.90,M
+31 Mar,15:05,Birdman Bob,23,,L,1.00,M
+31 Mar,15:54,Emily Wade,11,,L,1.00,M
+31 Mar,16:15,Brookie,26,,L,1.00,M
+31 Mar,17:25,Small Bad Bob,8,,L,1.00,M
+1 Apr,1:12,Master Otis,13,5,EP,1.00,M
+1 Apr,16:45,Who Is That,17,,L,1.00,M
+1 Apr,16:55,In From The Cold,26,,NR,1.00,M
+1 Apr,17:00,We'llhavewan,10,5,EP,1.00,M
+1 Apr,17:15,Solanna,19,,L,1.00,M
+1 Apr,17:40,Read To Return,12,,L,1.00,M
+2 Apr,16:45,Perfect Swiss,11,,L,1.00,M
+2 Apr,17:30,Supreme Tenacity,19,5,P,1.00,M
+2 Apr,,The Bell Conductor,17,5,W,1.00,M
+2 Apr,19:30,Clearance,19,,L,1.00,M
+3 Apr,20:00,Irrelevant,15,,L,1.00,M
+3 Apr,19:00,Kiwano,11,,L,1.00,M
+3 Apr,15:55,Russco,15,5,P,1.00,M
+4 Apr,16:50,Golden Symphony,26,,L,1.00,M
+4 Apr,16:15,Tomas O Maille,26,,L,1.00,M
+5 Apr,19:10,Jackhammer,13,,NR,1.00,M
+5 Apr,17:05,Moonlight Glory,17,,L,1.00,M
+5 Apr,18:10,Rumble B,15,,NR,1.00,M
+5 Apr,18:40,The Navigator,29,,L,1.00,M
+6 Apr,14:40,Cannon Rock,12,,L,1.00,M
+6 Apr,17:15,Champagne City,26,,L,1.00,M
+6 Apr,16:55,Rebel Path,23,,L,1.00,M
+6 Apr,18:15,Ruth Langmore,12,,L,1.00,M
+7 Apr,16:53,Fazayte,9,,L,1.00,M
+7 Apr,16:45,Getbazoutofhere,15,5,P,1.00,M
+7 Apr,15:00,Ri Na Cuirte,15,,L,1.00,M
+7 Apr,15:57,Skyhill,26,,L,1.00,M
+7 Apr,17:25,Some Nightmare,11,,L,1.00,M
+8 Apr,17:00,Gert Lush,,,L,1.00,M
+8 Apr,15:20,Kaidu,,,NR,1.00,M
+8 Apr,14:20,Mr Coco Bean,,,L,1.00,M
+8 Apr,17:20,Smalleytime,21,5,W,1.00,M
+9 Apr,16:45,Beechwood Star,17,,L,1.00,M
+9 Apr,15:00,Black Occ,12,,L,1.00,M
+9 Apr,14:30,Lonimoss Bareliere,23,,L,1.00,M
+9 Apr,17:45,Sluzewiec,17,,NR,1.00,M
+9 Apr,15:45,Yazaman,10,5,P,1.00,M
+10 Apr,16:35,Job,17,,L,1.00,M
+10 Apr,14:30,Paramaribo,11,5,P,1.00,M
+10 Apr,15:30,Seraphic,26,,L,1.00,M
+11 Apr,16:05,Cap Du Mathan,,,L,1.00,M
+11 Apr,16:40,Homme Public,,,L,1.00,M
+11 Apr,17:15,Letterston Lily,,,L,1.00,M
+11 Apr,15:30,Nemean Lion,,,L,1.00,M
+12 Apr,16:05,Celebre D'allen,29,5,P,1.00,M
+12 Apr,14:55,Golden Ace,8,,NR,1.00,M
+12 Apr,17:15,Lively Citizen,34,5,P,1.00,M
+12 Apr,14:20,Sonigino,17,,L,1.00,M
+13 Apr,15:05,Buddy One,17,5,P,0.85,M
+13 Apr,16:00,Capodanno,29,,L,1.00,M
+13 Apr,17:00,Djelo,17,,L,1.00,M
+13 Apr,13:55,Esprit Du Potier,21,,L,1.00,M
+13 Apr,14:30,Kinondo Kwetu,17,5,EP,1.00,M
+13 Apr,13:20,Seefin,29,,L,1.00,M
+14 Apr,14:05,Astroman,13,5,P,0.85,M
+14 Apr,17:17,Bring The Action,11,5,W,1.00,M
+14 Apr,16:25,Naturally High,15,,L,1.00,M
+14 Apr,15:15,Striking A Pose,17,,L,1.00,M
+15 Apr,15:00,Ex S'elance,,,L,1.00,M
+15 Apr,16:00,Libor Lad,,,L,1.00,M
+15 Apr,14:30,Step Above,,,L,1.00,M
+16 Apr,16:50,Ballymagroarty Boy,11,,L,1.00,M
+16 Apr,14:55,Dutch Decoy,10,5,P,1.00,M
+16 Apr,13:50,Shalaa Asker,11,5,EP,1.00,M
+17 Apr,14:05,Artistic Endeavour,17,,NR,1.00,M
+17 Apr,15:15,Blade Runner,15,,L,1.00,M
+17 Apr,17:00,Castel Gandolfo,10,5,EP,1.00,M
+17 Apr,14:40,Do Your Job,34,,L,1.00,M
+17 Apr,16:25,Moroder,21,5,P,1.00,M
+18 Apr,13:30,Ezmerellda,17,,L,1.00,M
+18 Apr,14:05,Fortunefavorsdbold,15,,L,1.00,M
+18 Apr,16:25,Lost Connections,12,,L,1.00,M
+18 Apr,14:40,Royale Dance,29,,L,1.00,M
+19 Apr,14:30,Bridge,13,5,P,1.00,M
+19 Apr,17:00,Foveros,23,5,P,0.90,M
+19 Apr,15:00,In The Air,13,,L,1.00,M
+19 Apr,16:30,Quest With Speed,13,5,EP,1.00,M
+19 Apr,14:20,Scipion,21,,L,1.00,M
+20 Apr,15:35,Mr Vango,11,,L,1.00,M
+20 Apr,14:25,Petit Tonnerre,19,,L,1.00,M
+20 Apr,15:00,Phillapa Sue,13,,L,1.00,M
+20 Apr,13:50,Special Rate,21,,L,1.00,M
+20 Apr,15:15,Talis Evolvere,19,5,P,1.00,M
+21 Apr,14:48,Fast Deal,67,5,W,0.85,M
+21 Apr,13:40,Hasty Parisian,12,5,EP,1.00,M
+21 Apr,15:23,Secret Sauce,17,,L,1.00,M
+21 Apr,13:57,Thirtyfour Thirty,26,,L,1.00,M
+22 Apr,15:30,Ex S'elance,17,,L,1.00,M
+22 Apr,16:30,Jimmy Rabbitte,11,,L,1.00,M
+22 Apr,16:15,Robins Field,17,,L,1.00,M
+23 Apr,14:18,Hall Lane,9,5,P,1.00,M
+23 Apr,17:50,I'm Too Tired,15,,L,1.00,M
+23 Apr,13:45,Maninsane,13,,L,1.00,M
+23 Apr,15:30,Nimbus Boy,9,,L,1.00,M
+23 Apr,16:40,Rare Clouds,11,5,EP,1.00,M
+24 Apr,16:05,Another Day Out,13,,L,1.00,M
+24 Apr,15:35,Chinook,26,,L,1.00,M
+24 Apr,14:35,Shantou Express,13,,L,1.00,M
+25 Apr,15:45,Abaya Du Mathan,17,5,W,1.00,M
+25 Apr,16:20,Flight Deck,12,,NR,1.00,M
+25 Apr,17:20,Iolani,34,5,P,1.00,M
+25 Apr,14:25,Jelski,26,,L,1.00,M
+25 Apr,14:35,The Gambler,41,,L,1.00,M
+26 Apr,16:45,Across Earth,17,,L,1.00,M
+26 Apr,16:25,Goguenard,17,,L,1.00,M
+26 Apr,15:35,Under The Sun,34,,L,1.00,M
+27 Apr,17:20,Arqoob,15,,L,1.00,M
+27 Apr,15:35,Enrilo,19,,L,1.00,M
+27 Apr,13:50,Panjari,13,,L,1.00,M
+27 Apr,16:45,Persian Time,10,,L,1.00,M
+28 Apr,15:20,Eagle Court,10,,L,1.00,M
+28 Apr,17:05,Eye Of The Water,10,5,P,1.00,M
+28 Apr,14:30,Sky Blue Dreams,29,,L,1.00,M
+28 Apr,15:30,Soames Forsyte,19,,NR,1.00,M
+29 Apr,15:15,Hale End,12,,L,1.00,M
+29 Apr,15:35,Still Standing,15,,L,1.00,M
+30 Apr,14:30,Albaquirky,26,,L,1.00,M
+30 Apr,16:50,Harry's Dream,51,,L,1.00,M
+30 Apr,16:15,Lord Erskine,34,,L,1.00,M
+30 Apr,15:05,Millstream Lady,15,5,EP,1.00,M
